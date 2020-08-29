@@ -1,0 +1,6 @@
+# PACKING
+dotnet pack -p:PackageVersion=1.0.0 --configuration Release
+
+# PUSHING
+dotnet nuget push ./bin/Release/PasswordBoxMVVM.1.0.0.nupkg -s https://api.nuget.org/v3/index.json -k <API_KEY>
+
