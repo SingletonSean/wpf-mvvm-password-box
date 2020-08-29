@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace PasswordBoxMVVMExample.ViewModels
+namespace PasswordBoxMVVM.ViewModels
 {
     public class ViewModelBase : INotifyPropertyChanged
     {

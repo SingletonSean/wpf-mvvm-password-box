@@ -1,10 +1,10 @@
-﻿using PasswordBoxMVVMExample.Commands;
+﻿using PasswordBoxMVVM.Commands;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows.Input;
 
-namespace PasswordBoxMVVMExample.ViewModels
+namespace PasswordBoxMVVM.ViewModels
 {
     public class LoginViewModel : ViewModelBase
     {

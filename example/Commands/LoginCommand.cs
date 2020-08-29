@@ -1,4 +1,4 @@
-﻿using PasswordBoxMVVMExample.ViewModels;
+﻿using PasswordBoxMVVM.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Windows;
 using System.Windows.Input;
 
-namespace PasswordBoxMVVMExample.Commands
+namespace PasswordBoxMVVM.Commands
 {
     public class LoginCommand : ICommand
     {

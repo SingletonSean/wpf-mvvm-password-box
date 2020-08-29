@@ -1,4 +1,4 @@
-﻿using PasswordBoxMVVMExample.ViewModels;
+﻿using PasswordBoxMVVM.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace PasswordBoxMVVMExample
+namespace PasswordBoxMVVM
 {
     /// <summary>
     /// Interaction logic for App.xaml

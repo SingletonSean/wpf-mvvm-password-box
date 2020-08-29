@@ -11,7 +11,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PasswordBoxMVVMExample.Views
+namespace PasswordBoxMVVM.Views
 {
     /// <summary>
     /// Interaction logic for LoginView.xaml

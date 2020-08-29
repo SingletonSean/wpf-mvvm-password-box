@@ -1,7 +1,7 @@
-﻿<Application x:Class="PasswordBoxMVVMExample.App"
+﻿<Application x:Class="PasswordBoxMVVM.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:PasswordBoxMVVMExample">
+             xmlns:local="clr-namespace:PasswordBoxMVVM">
     <Application.Resources>
          
     </Application.Resources>
